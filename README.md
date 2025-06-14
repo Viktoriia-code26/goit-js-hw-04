@@ -1,2 +1,2 @@
 # goit-js-hw-04
-Project namber 4
+Project number 4
